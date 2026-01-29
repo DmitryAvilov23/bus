@@ -1,0 +1,10 @@
+dist
+**/coverage/**
+*/import/
+**/schematics/*/files/**/*
+node_modules
+*.svg
+*.json
+*.md
+*.xlf
+src/assets/**/*
