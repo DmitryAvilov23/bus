@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b0ce16a-e155-419e-8bb0-aecb49499632" name="Changes" comment="Updated angular to v18">
+    <list default="true" id="4b0ce16a-e155-419e-8bb0-aecb49499632" name="Changes" comment="Created base architecture">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bus/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/bus/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bus/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/bus/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bus/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/bus/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bus/src/app/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/bus/src/app/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bus/src/app/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/bus/src/app/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bus/src/app/home/home.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/bus/src/app/home/home.component.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +42,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\websites\bus\bus\src\app\app" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -54,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1769670080557</updated>
-      <workItem from="1769670081642" duration="4817000" />
+      <workItem from="1769670081642" duration="7267000" />
     </task>
     <task id="LOCAL-00001" summary="Project was created">
       <option name="closed" value="true" />
@@ -80,7 +87,31 @@
       <option name="project" value="LOCAL" />
       <updated>1769683117292</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Updated angular to v19">
+      <option name="closed" value="true" />
+      <created>1769685273964</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1769685273964</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Updated angular to v19">
+      <option name="closed" value="true" />
+      <created>1769685324498</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1769685324498</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Created base architecture">
+      <option name="closed" value="true" />
+      <created>1769687923504</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1769687923504</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +132,8 @@
     <MESSAGE value="Project was created" />
     <MESSAGE value="Updated angular to v17" />
     <MESSAGE value="Updated angular to v18" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated angular to v18" />
+    <MESSAGE value="Updated angular to v19" />
+    <MESSAGE value="Created base architecture" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created base architecture" />
   </component>
 </project>
